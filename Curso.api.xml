@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:Curso.api.Controllers.UsuarioController.Logar(Curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar a atividade de um usuario
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
